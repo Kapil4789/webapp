@@ -1,0 +1,50 @@
+[33m08dd61a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/home1[m[33m, [m[1;31morigin/HEAD[m[33m)[m Update README.md
+[33m40e792d[m This is new data
+[33mb5ccf12[m Add Name
+[33m6841b22[m Add Name
+[33m3bb1949[m Update index.jsp
+[33m5c41ddc[m Update index.jsp
+[33m20f1366[m Update index.jsp
+[33ma93715b[m Update index.jsp
+[33m552931a[m Update index.jsp
+[33ma3a0bab[m Update index.jsp
+[33me90982f[m Update index.jsp
+[33m7322bd2[m made changes
+[33m60792f3[m replace Sasi with Rafik
+[33mee6dcf0[m Update index.jsp
+[33m120cc2b[m Update README.md
+[33maad4ad3[m Update index.jsp
+[33me37c2c4[m Update index.jsp
+[33m6a362d6[m Update index.jsp
+[33m637c94c[m Update index.jsp
+[33m0651e19[m Update index.jsp
+[33mce3a626[m Update index.jsp
+[33m676d103[m Update index.jsp
+[33m52159e9[m Update index.jsp
+[33m586cf34[m Update index.jsp
+[33m65c1610[m Update index.jsp
+[33m92bedf3[m Update index.jsp
+[33mbc953fc[m Updated statement on index page
+[33m01be9c1[m First modification
+[33m71c2b99[m deployment commit
+[33mf8210ce[m Jenkins page
+[33m4c74c13[m Update index.jsp
+[33mce9fadb[m Update index.jsp
+[33mb7541ba[m Update README.md
+[33mb0a4581[m Rename ,travis.yml to .travis.yml
+[33mf10fc53[m Update index.jsp
+[33mfb93d62[m Create ,travis.yml
+[33m7da1386[m Update index.jsp
+[33m1a44895[m Update README.md
+[33m3da5baf[m Update index.jsp
+[33m786937f[m Update index.jsp
+[33m2ace442[m Update index.jsp
+[33mb1baa02[m Update ExampleTest.java
+[33m857713e[m Update ExampleTest.java
+[33m835c6da[m Add a example test for continuous delivery
+[33md0764fb[m Add log4j to pom.xml
+[33m366c409[m Test Cont.Delivery
+[33ma970f93[m Update index to trigger CI
+[33mc381115[m Updates .gitignore to exclude target
+[33m4170154[m Add initial project
+[33m30cf775[m Initial commit
